@@ -1,0 +1,11 @@
+name: music_rec_sys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pandas=2.0.0
+  - scikit-learn=1.2.2
+  - pip:
+    - streamlit==1.26.0
