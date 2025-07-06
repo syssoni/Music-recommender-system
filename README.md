@@ -19,7 +19,7 @@ A content-based music recommendation system that is designed to suggest 5 simila
 - It also contains columns like loudness, key, and acousticness, which have been dropped after data processing
 - <img src="https://raw.githubusercontent.com/syssoni/Music-recommender-system/main/Application/model_out_1.png" alt="dataset description" width="70%">
   
-**Data preprocessing, Data vectorization, Feature extraction, tf-idf, cosine similarity used for ranking, Recommender system, Streamlit**
+**Natural language processing, Data preprocessing, Data vectorization, Feature extraction, tf-idf, cosine similarity used for ranking, Recommender system, Streamlit, Machine learning**
 
 ## Requirements
 ---
